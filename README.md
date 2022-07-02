@@ -26,5 +26,4 @@ Actions:
   -c                create domain and server, MUST be running as user 'weblogic'
 
   -b                setup service on boot for admin[managed] server
-                    root permission necessary
-"
+                    root permission necessary  
