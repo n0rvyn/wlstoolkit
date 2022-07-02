@@ -5,7 +5,7 @@
 USAGE:  
   &emsp;`$file_name [ options ] [ action ]  `
 
-for example:  
+For example:
   &emsp;`$file_name -D domain01 -S server01:8001 -S server02:8002 -c `  
 
 Options:  
