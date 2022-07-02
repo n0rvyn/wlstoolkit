@@ -2,6 +2,7 @@
 
 ## This script is used for creating domain&server for Weblogic
 
+"
 USAGE:
   $file_name [ options ] [ action ]
 
@@ -26,3 +27,4 @@ Actions:
 
   -b                setup service on boot for admin[managed] server
                     root permission necessary
+"
