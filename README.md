@@ -2,7 +2,7 @@
 
 ## This script is used for creating domain&server for Weblogic
 
-"
+>
 USAGE:
   $file_name [ options ] [ action ]
 
